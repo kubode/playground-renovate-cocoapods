@@ -7,4 +7,7 @@ target 'playground-renovate-cocoapods' do
 
   # Pods for playground-renovate-cocoapods
   pod "Then", "2.0.0"
+  pod "FBSDKCoreKit", "~> 7"
+  pod "FBSDKLoginKit"
+  pod "RxSwift", "4.4.2"
 end
