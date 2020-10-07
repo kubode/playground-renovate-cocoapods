@@ -6,7 +6,7 @@ target 'playground-renovate-cocoapods' do
   use_frameworks!
 
   # Pods for playground-renovate-cocoapods
-  pod "Then", "2.0.0"
+  pod "Then", "2.7.0"
   pod "FBSDKCoreKit", "~> 7"
   pod "FBSDKLoginKit"
   pod "RxSwift", "4.5.0"
