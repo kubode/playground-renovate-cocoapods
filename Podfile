@@ -9,5 +9,5 @@ target 'playground-renovate-cocoapods' do
   pod "Then", "2.7.0"
   pod "FBSDKCoreKit", "~> 7"
   pod "FBSDKLoginKit"
-  pod "RxSwift", "4.5.0"
+  pod "RxSwift", "5.1.1"
 end

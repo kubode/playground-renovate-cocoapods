@@ -9,13 +9,13 @@ PODS:
     - FBSDKLoginKit/Login (= 7.1.1)
   - FBSDKLoginKit/Login (7.1.1):
     - FBSDKCoreKit (~> 7.1.1)
-  - RxSwift (4.5.0)
+  - RxSwift (5.1.1)
   - Then (2.7.0)
 
 DEPENDENCIES:
   - FBSDKCoreKit (~> 7)
   - FBSDKLoginKit
-  - RxSwift (= 4.5.0)
+  - RxSwift (= 5.1.1)
   - Then (= 2.7.0)
 
 SPEC REPOS:
@@ -28,9 +28,9 @@ SPEC REPOS:
 SPEC CHECKSUMS:
   FBSDKCoreKit: b46507dc8b8cefed31d644e74d7cc30e2a715ef8
   FBSDKLoginKit: 1a61d79e2b25e2fc0d03dccab1e34b38bbdf2546
-  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
   Then: acfe0be7e98221c6204e12f8161459606d5d822d
 
-PODFILE CHECKSUM: 231a6442b4f5305373e209dd7f622b34a93f4131
+PODFILE CHECKSUM: ad7d638a693cb561ac2ebdb9740c0d259b27707a
 
 COCOAPODS: 1.9.3
